@@ -12,7 +12,7 @@ Modelo predictivo para anticipar el riesgo de lesión en corredores de fondo a p
 
 Como corredor de fondo, la lesión es uno de los mayores riesgos que puede truncar meses de preparación. La mayoría de los modelos de predicción de lesiones deportivas fallan por un motivo estructural: las lesiones son eventos raros (en este dataset, apenas el 1.16% de las observaciones), lo que hace que los modelos estándar tiendan a ignorarlas por completo. Este proyecto nace de la intersección entre mi interés personal por el rendimiento deportivo basado en datos y mi formación en analítica: el objetivo no era solo entrenar un modelo más, sino entender qué tipo de información temporal permite anticipar el riesgo antes de que ocurra.
 
-## 📊 Dataset
+## Dataset
 
 - 74 atletas, aproximadamente 43.000 observaciones (series temporales diarias y semanales)
 - Tasa de lesión: 1.16% — dataset fuertemente desbalanceado, uno de los principales retos técnicos del proyecto
